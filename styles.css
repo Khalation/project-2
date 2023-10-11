@@ -1,0 +1,33 @@
+#Header {
+    background-color: #A5F5EC;
+    font-family: sans-serif;
+}
+
+#Profile {
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container > img {
+    height: 250px;
+    width: 250px;
+    border-radius: 50%;
+}
+
+h2 {
+    color: #ABF5E1;
+    font-size: 50px ;
+}
+
+#Skills {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Contacts {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#Footer {
+    background-color: #A6FFF9 ;
+}
